@@ -6,12 +6,6 @@
 
 "comments": [{"id":0, "name":"kyle"},
 {"id":1, "name":"kyle"}, 
-{"id":2, "name":"kyle"}
-],
-
-"store": [{"id":0, "type":"warehouse"},
-{"id":1, "type":"mall"},
-{"id":2, "type":"shop"}
+{"id":2, "name":"kyle"},
 ]
-
 }
