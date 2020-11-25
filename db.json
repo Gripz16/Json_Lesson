@@ -7,10 +7,11 @@
 "comments": [{"id":0, "name":"kyle"},
 {"id":1, "name":"kyle"}, 
 {"id":2, "name":"kyle"}
-]
+],
 
 "store": [{"id":0, "type":"warehouse"},
-[{"id":2, "type":"mall"},
- [{"id":3, "type":"shop"}],
+{"id":2, "type":"mall"},
+{"id":3, "type":"shop"}
+]
 
 }
