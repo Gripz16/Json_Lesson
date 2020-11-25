@@ -1,4 +1,12 @@
-{"posts": [{"id":0, "type":"face", "price":2},
+{
+"posts": [{"id":0, "type":"face", "price":2},
 {"id":1, "type":"feet", "price":3}, 
 {"id":2, "type":"body", "price":6}, 
-{"id":3, "type":"bath", "price":10}]}
+{"id":3, "type":"bath", "price":10}],
+
+"comments": [{"id":0, "name":"kyle"},
+{"id":1, "name":"kyle"}, 
+{"id":2, "name":"kyle"}
+]
+
+}
