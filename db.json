@@ -9,4 +9,8 @@
 {"id":2, "name":"kyle"}
 ]
 
+"store": [{"id":0, "type":"warehouse"},
+[{"id":2, "type":"mall"},
+ [{"id":3, "type":"shop"}],
+
 }
