@@ -10,8 +10,8 @@
 ],
 
 "store": [{"id":0, "type":"warehouse"},
-{"id":2, "type":"mall"},
-{"id":3, "type":"shop"}
+{"id":1, "type":"mall"},
+{"id":2, "type":"shop"}
 ]
 
 }
